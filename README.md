@@ -19,3 +19,5 @@ A simple card game built with JavaScript simulating Blackjack rules.
 ## 📁 Files
 - `index.html` — game layout
 - `script.js` — game logic
+## 🌐 Live Demo
+[Link to live site](https://mohammadalbaba13.github.io/Blackjack-Casino-Game/)
